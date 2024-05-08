@@ -13,9 +13,16 @@ With this project, we will be able to provide a holistic offering that is based 
 
 ## Project Status
 
-This project entered the Green Software Foundation as a Draft on 8 May 2024 [[proposal](https://github.com/Green-Software-Foundation/projects/issues/83)].
-
 > **This is a draft document only and has not been approved or adopted by the Green Software Foundation. this draft may not be relied upon for any purpose other than review of the current state of development.**
+
+This project entered the Green Software Foundation as a Draft on 8 May 2024 [[proposal](https://github.com/Green-Software-Foundation/projects/issues/83)]. 
+
+## Appointments
+
+The project is lead by:
+
+* [Thomas Lewis](https://github.com/tholewis)
+* [Tammy McClellan](https://github.com/tmcclell)
 
 ## Copyright
 This project is copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
