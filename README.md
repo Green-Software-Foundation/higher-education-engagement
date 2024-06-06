@@ -17,6 +17,12 @@ With this project, we will be able to provide a holistic offering that is based 
 
 This project entered the Green Software Foundation as a Draft on 8 May 2024 [[proposal](https://github.com/Green-Software-Foundation/projects/issues/83)]. 
 
+## Get Involved
+
+🚀 If you are an employee of an existing GSF member organization please use this page to [Register](https://wiki.greensoftware.foundation/orientation/signup#block-b905b3e129f442409bf6d2ccc3e24c81) as a volunteer with the Green Software Foundation, and [Subscribe](https://wiki.greensoftware.foundation/orientation/signup#block-8b47e8055db349a7b791b17485e8bac2) to stay informed about the project. Once subscribed you will receive email updates from the mailing list (higher-education-engagement@greensoftware.foundation). 
+
+You can also chose to watch this repository for the latest developments.
+
 ## Appointments
 
 The project is led by:
