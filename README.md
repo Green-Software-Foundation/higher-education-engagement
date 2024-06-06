@@ -19,7 +19,7 @@ This project entered the Green Software Foundation as a Draft on 8 May 2024 [[pr
 
 ## Appointments
 
-The project is lead by:
+The project is led by:
 
 * [Thomas Lewis](https://github.com/tholewis)
 * [Tammy McClellan](https://github.com/tmcclell)
